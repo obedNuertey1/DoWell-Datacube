@@ -1,5 +1,19 @@
 # DoWell DataCube from DoWell UX Living Lab
+### Overview:
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [API Description](#api-description)
+- [Steps to use DoWell DataCube and APIs](#steps-to-use-dowell-datacube-and-apis)
+  - [Step 1: Add request for database](#step-1-add-request-for-database)
+  - [Step 2: Use Database using APIs](#step-2-use-database-using-apis)
+- [API Detailed Documentation](#api-detailed-documentation)
+  - [Fetch Data Using the API](#fetch-data-using-the-api)
+  - [Insert Data](#insert-data)
+  - [Update Data](#update-data)
+  - [Delete Data](#delete-data)
+  - [Add Collection to Database](#add-collection-to-database)
 
+## Introduction
 Welcome to the DoWell DataCube! The DoWell DataCube is a platform that offers centralized data management, enabling users to create custom databases and access them through APIs.
 This documentation contains in-depth information on how to utilize the DoWell DataCube API for data insertion, retrieval and updation.
 
